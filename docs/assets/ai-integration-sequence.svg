@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 617" width="680" font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <title>AI 接入论文平台的时序图</title>
+  <desc>用户对 AI 前端提问后，AI 前端经 MCP Server 调用本地后端读取论文与写笔记的完整时序，唯一离开电脑的是 AI 前端与云端模型之间的请求</desc>
+  <defs>
+    <marker id="g1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#444441" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="g2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="g3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#BA7517" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect x="40" y="36" width="160" height="48" rx="8" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.5"/>
+  <text x="120" y="56" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0C447C">你的 AI 前端</text>
+  <text x="120" y="72" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#185FA5">Claude Desktop / Cursor</text>
+
+  <rect x="225" y="36" width="130" height="48" rx="8" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.5"/>
+  <text x="290" y="56" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0C447C">MCP Server</text>
+  <text x="290" y="72" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#185FA5">由 AI 前端拉起 · stdio</text>
+
+  <rect x="380" y="36" width="150" height="48" rx="8" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.5"/>
+  <text x="455" y="56" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0C447C">本地后端 + 数据</text>
+  <text x="455" y="72" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#185FA5">127.0.0.1 · token 认证</text>
+
+  <rect x="545" y="36" width="95" height="48" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+  <text x="592" y="56" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#854F0B">云端 LLM</text>
+  <text x="592" y="72" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#BA7517">用户的 Key</text>
+
+  <path d="M120 84 L120 525" fill="none" stroke="#D3D1C7" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <path d="M290 84 L290 525" fill="none" stroke="#D3D1C7" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <path d="M455 84 L455 525" fill="none" stroke="#D3D1C7" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <path d="M592 84 L592 525" fill="none" stroke="#D3D1C7" stroke-width="0.5" stroke-dasharray="3 3"/>
+
+  <text x="202" y="117" text-anchor="middle" font-size="11" fill="#444441">1 · get_reading_state()</text>
+  <path d="M120 125 L284 125" fill="none" stroke="#444441" stroke-width="1.5" marker-end="url(#g1)"/>
+
+  <text x="370" y="172" text-anchor="middle" font-size="11" fill="#444441">2 · GET /api/state（127.0.0.1 + token）</text>
+  <path d="M290 180 L449 180" fill="none" stroke="#444441" stroke-width="1.5" marker-end="url(#g1)"/>
+
+  <text x="375" y="227" text-anchor="middle" font-size="11" fill="#5F5E5A">3 · 返回：当前论文 / 页码 / 选中段落</text>
+  <path d="M455 235 L296 235" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#g2)"/>
+
+  <text x="202" y="282" text-anchor="middle" font-size="11" fill="#444441">4 · get_paper_text(paper_id, 当前页)</text>
+  <path d="M120 290 L284 290" fill="none" stroke="#444441" stroke-width="1.5" marker-end="url(#g1)"/>
+
+  <text x="290" y="337" text-anchor="middle" font-size="11" fill="#5F5E5A">5 · 返回：论文全文（分页，经 MCP 回传）</text>
+  <path d="M455 345 L126 345" fill="none" stroke="#888780" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#g2)"/>
+
+  <text x="353" y="392" text-anchor="middle" font-size="11" fill="#854F0B">6 · 请求模型生成摘要（你的前端 × 你的 Key）</text>
+  <path d="M120 400 L586 400" fill="none" stroke="#BA7517" stroke-width="1.5" marker-end="url(#g3)"/>
+
+  <text x="202" y="447" text-anchor="middle" font-size="11" fill="#444441">7 · add_note(paper_id, 摘要)</text>
+  <path d="M120 455 L284 455" fill="none" stroke="#444441" stroke-width="1.5" marker-end="url(#g1)"/>
+
+  <text x="370" y="502" text-anchor="middle" font-size="11" fill="#444441">8 · 写入 notes/&lt;id&gt;.md</text>
+  <path d="M290 510 L449 510" fill="none" stroke="#444441" stroke-width="1.5" marker-end="url(#g1)"/>
+
+  <rect x="40" y="545" width="600" height="52" rx="12" fill="#FAEEDA" stroke="#EF9F27" stroke-width="0.5"/>
+  <text x="340" y="567" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#854F0B">整条链路中唯一离开电脑的是第 6 步 —— 它发生在你的 AI 前端与模型服务商之间</text>
+  <text x="340" y="585" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#633806">阅读平台不参与、不经手、不可见；论文与笔记全程留在本地</text>
+</svg>

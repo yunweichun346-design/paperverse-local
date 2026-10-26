@@ -1,0 +1,859 @@
+[
+  {
+    "发行路径": "网页应用/src/foundation.css",
+    "上游相对路径": "src/foundation.css",
+    "逐字一致": false,
+    "发行SHA256": "0d0dd8f62cfa567b0597054de431bb0ac5e1c8fe84dc5d35ecec3a74dd140fd6",
+    "上游SHA256": "9b503667f9e8451c53940cede8a8855fefe74cb4ea8ad0e0accc8d9584721836"
+  },
+  {
+    "发行路径": "网页应用/src/print.css",
+    "上游相对路径": "src/print.css",
+    "逐字一致": false,
+    "发行SHA256": "f16f5e32a8242fcb3886037fd052fc50ff58af33931c610e979338dc4decf4ce",
+    "上游SHA256": "8a3f83b3d4b453bc660d87027684e70ce053401c0d327e72247fc90f848966ac"
+  },
+  {
+    "发行路径": "网页应用/src/styles-foundation.css",
+    "上游相对路径": "src/styles-foundation.css",
+    "逐字一致": false,
+    "发行SHA256": "a604343f33f8235c99b32253500b4b16a38857331625d2d0b83cc45b2d2e3ece",
+    "上游SHA256": "6f29f5247d6b45ed8bec0d4ad9f11f7d571698dec6bbef7e6189b637d9db7b08"
+  },
+  {
+    "发行路径": "网页应用/src/styles.css",
+    "上游相对路径": "src/styles.css",
+    "逐字一致": false,
+    "发行SHA256": "69c92a27e6005fd5161a535857eb2a59300d37ce64ba8eef534d90a3e812459e",
+    "上游SHA256": "12a2ca74a48280d066eba6c77efe184afbc6c96c6b598782ebb80ae61dd13b03"
+  },
+  {
+    "发行路径": "网页应用/src/theme.css",
+    "上游相对路径": "src/theme.css",
+    "逐字一致": false,
+    "发行SHA256": "6acaeeb02337404b6527549cd8e2809b9d6ceb850ec56f7072d52246bee3c211",
+    "上游SHA256": "d6885cb4e6cd5201935773f47148888bcd634e9cc13df9951803a7beacac25f2"
+  },
+  {
+    "发行路径": "网页应用/src/charting/experimental-bar-chart.css",
+    "上游相对路径": "src/charting/experimental-bar-chart.css",
+    "逐字一致": false,
+    "发行SHA256": "6c095130a7c94106e0380eddd8971ca41c39a8f513c6bfca334a416d0e7695fc",
+    "上游SHA256": "b9117bdd6cd0f441f23b82a6d79fd17fc3e13e2f2003d631afc0827b2cf8174e"
+  },
+  {
+    "发行路径": "网页应用/src/components/chart-export.css",
+    "上游相对路径": "src/components/chart-export.css",
+    "逐字一致": false,
+    "发行SHA256": "ef6893182afd0511e9405301918b8cdb1e7a4806fb1ce9b6756647cc798231ba",
+    "上游SHA256": "5169a041e8e7de337915d5b39f3d6c7208c0c587ef15744f8813308476fa1c4f"
+  },
+  {
+    "发行路径": "网页应用/src/components/data-app-handoff.css",
+    "上游相对路径": "src/components/data-app-handoff.css",
+    "逐字一致": false,
+    "发行SHA256": "fbdb1cfe6ec9bd5a91fe5b72f2d013a95c343e43ca5d39b0c57e41895892e56b",
+    "上游SHA256": "6edd7a036016ba2c80c122f1322f3f1f3a01bf333e36c5ebbab79313c870ba05"
+  },
+  {
+    "发行路径": "网页应用/src/components/data-app-loading.css",
+    "上游相对路径": "src/components/data-app-loading.css",
+    "逐字一致": false,
+    "发行SHA256": "0a45d933a91fdb0a6178b33666b6dfaa6c953cb0d40b8942692f7ea15448e468",
+    "上游SHA256": "8ce37185b00f9a9c12563cec73ebafcd4612230a7f4d5afc09736b6f9c468074"
+  },
+  {
+    "发行路径": "网页应用/src/components/dropdown-model.js",
+    "上游相对路径": "src/components/dropdown-model.js",
+    "逐字一致": false,
+    "发行SHA256": "6e42316140084f06e070351ce34f274c310dc0e0ffc6735bbcdfe7e3705b05be",
+    "上游SHA256": "c70414249e31d44177bdf2c81deb93ae564ccb2833f01e4fefbe37df5d597177"
+  },
+  {
+    "发行路径": "网页应用/src/components/executive-summary.css",
+    "上游相对路径": "src/components/executive-summary.css",
+    "逐字一致": false,
+    "发行SHA256": "9b5dd89d531050843de64c8269cbbfee67ce9e63eb00e5bae001c63cd841325a",
+    "上游SHA256": "70205776df61151a771da83d7a87dfbc24c4128fc9978270a43d2cbd160911c7"
+  },
+  {
+    "发行路径": "网页应用/src/components/form-controls.css",
+    "上游相对路径": "src/components/form-controls.css",
+    "逐字一致": false,
+    "发行SHA256": "129ed646eb4efe4856ebcd76338372e97b194dc8c0137e0cf5a5c4279d48a024",
+    "上游SHA256": "4cd65b3a53eef43d1f9b32dd62ebf44555c887ed92aee484dc080ba384349f7b"
+  },
+  {
+    "发行路径": "网页应用/src/components/Icon.jsx",
+    "上游相对路径": "src/components/Icon.jsx",
+    "逐字一致": false,
+    "发行SHA256": "68bcba90afea6d4bcc276301b0fe901543a1000cf41dd348d54942c4763aa432",
+    "上游SHA256": "3181d5f82f887b5a7cf4a1c5b1fcb50d6ffc1a06d082ce9f3f569bc26b4341a6"
+  },
+  {
+    "发行路径": "网页应用/src/components/publish-review.css",
+    "上游相对路径": "src/components/publish-review.css",
+    "逐字一致": false,
+    "发行SHA256": "c3370d5f24c6d873aa983908f888a5d3140a52e37beecfdb1ab8fb6810f2df9e",
+    "上游SHA256": "0483af589681e7e22b58dbc41d0c39dba4ff6e04f350b04109c14fac0bbd8c9d"
+  },
+  {
+    "发行路径": "网页应用/src/components/section-navigator.css",
+    "上游相对路径": "src/components/section-navigator.css",
+    "逐字一致": false,
+    "发行SHA256": "910359401786ac3e255347d075c0964bf72ea20d295c0662b6561bd0b87a9f9e",
+    "上游SHA256": "841d9893a1b70b3740f548d1a1b535eb707b8152c9ece8854a75e505e0ed3ba7"
+  },
+  {
+    "发行路径": "网页应用/src/components/source-inspector.css",
+    "上游相对路径": "src/components/source-inspector.css",
+    "逐字一致": false,
+    "发行SHA256": "c7d02f2fb4a62b1755d328dedccac49a1101644a3ab856a6c545f38eadd3481f",
+    "上游SHA256": "8f33b97393bbf736360e6b7998af38078d94b23181cc85d7652fee8635813c86"
+  },
+  {
+    "发行路径": "网页应用/src/components/topbar-mode-controls.css",
+    "上游相对路径": "src/components/topbar-mode-controls.css",
+    "逐字一致": false,
+    "发行SHA256": "06c7e43a59d78442f81ecc5db720f0cb6e378e13bdd7e0f1b82b909dcfa9a7e2",
+    "上游SHA256": "1b7c542c1fedbd6a469a2ebd5eb445eb39412f7cc1e19b192792c2af3d6829d8"
+  },
+  {
+    "发行路径": "网页应用/src/components/touch-release-trigger.js",
+    "上游相对路径": "src/components/touch-release-trigger.js",
+    "逐字一致": false,
+    "发行SHA256": "c17a34862a7cb12dd419b7579d22c096a347e4afafbf0cfd93d17cdc175c997b",
+    "上游SHA256": "5269c96d07196290c9eaa91397b78aba7f662740a4bc1917479ef0bdb8beafdc"
+  },
+  {
+    "发行路径": "网页应用/src/components/ui.jsx",
+    "上游相对路径": "src/components/ui.jsx",
+    "逐字一致": false,
+    "发行SHA256": "5903efc719d323d80aefc1e063ca735a4ff49a0cefb9993e67a5064a19658e10",
+    "上游SHA256": "d07d561a0876bb899eb16ac68a70781a96fcd6a6427c34b1bc023091eaa472c8"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/convert-icon-google-docs.svg",
+    "上游相对路径": "src/components/icons/convert-icon-google-docs.svg",
+    "逐字一致": false,
+    "发行SHA256": "0f68908abe19543be363a403a4239f288236840ede01eec2af65830c3ba7f22c",
+    "上游SHA256": "c5f417c7896dde4a45cf61778f1d66053825bc5fbc75252ebae63b7c0ea48987",
+    "替换前发行SHA256": "c5f417c7896dde4a45cf61778f1d66053825bc5fbc75252ebae63b7c0ea48987",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/convert-icon-google-slides.svg",
+    "上游相对路径": "src/components/icons/convert-icon-google-slides.svg",
+    "逐字一致": false,
+    "发行SHA256": "5c88f753ea9b548265533300ced5651051745beaee49a9bc6216e49ac1f84f95",
+    "上游SHA256": "233363b561f4152765bdc78a8386ad6f4a4f0afc1e504cedb9962f68a561ccbd",
+    "替换前发行SHA256": "233363b561f4152765bdc78a8386ad6f4a4f0afc1e504cedb9962f68a561ccbd",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/convert-icon-jupyter.svg",
+    "上游相对路径": "src/components/icons/convert-icon-jupyter.svg",
+    "逐字一致": false,
+    "发行SHA256": "119524879d2fc8c753887114ab988ee8f788482f2afddfb3103cc21d6d17cf86",
+    "上游SHA256": "58938f5b71c10a73982ef00caa43a01ceae35b2817df547012e4ae8ed25d2fb6",
+    "替换前发行SHA256": "58938f5b71c10a73982ef00caa43a01ceae35b2817df547012e4ae8ed25d2fb6",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/convert-icon-pdf.svg",
+    "上游相对路径": "src/components/icons/convert-icon-pdf.svg",
+    "逐字一致": false,
+    "发行SHA256": "c8b69419d38c3a53d249fa341e39cd68b5e7faefb8b7f92f910c85eef06ede95",
+    "上游SHA256": "63b5fda9c3657b7b7fb4af31c3d2f16fc19ce8b1ceed2cddf5e4fe12947beae6",
+    "替换前发行SHA256": "63b5fda9c3657b7b7fb4af31c3d2f16fc19ce8b1ceed2cddf5e4fe12947beae6",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/convert-icon-powerpoint.svg",
+    "上游相对路径": "src/components/icons/convert-icon-powerpoint.svg",
+    "逐字一致": false,
+    "发行SHA256": "5c88f753ea9b548265533300ced5651051745beaee49a9bc6216e49ac1f84f95",
+    "上游SHA256": "71a7a6a82eda7e671a66cd6c25b5814e39cc5be7a3db8365b0237398eef30978",
+    "替换前发行SHA256": "71a7a6a82eda7e671a66cd6c25b5814e39cc5be7a3db8365b0237398eef30978",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/convert-icon-word.svg",
+    "上游相对路径": "src/components/icons/convert-icon-word.svg",
+    "逐字一致": false,
+    "发行SHA256": "0f68908abe19543be363a403a4239f288236840ede01eec2af65830c3ba7f22c",
+    "上游SHA256": "6db6f1fdfc0805fdf017c319affe5a9b91bf337b52b0bd6a0bec4ecfed3c6b7c",
+    "替换前发行SHA256": "6db6f1fdfc0805fdf017c319affe5a9b91bf337b52b0bd6a0bec4ecfed3c6b7c",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-alertBell.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-alertBell.svg",
+    "逐字一致": false,
+    "发行SHA256": "01f419f823d3332da275a17fc7fcac7997597a0f533c9c81678ef5ee5b7bc341",
+    "上游SHA256": "bbd96bd8458604bee4ffcaa2a33655cb0aba521f0608d9a02625e80e372e924b",
+    "替换前发行SHA256": "bbd96bd8458604bee4ffcaa2a33655cb0aba521f0608d9a02625e80e372e924b",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-arrowDown.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-arrowDown.svg",
+    "逐字一致": false,
+    "发行SHA256": "e4aef5810b8e5e1304c735f2af5c6f7c4cdebad1e00b4b2ebbf2e1bdfea17528",
+    "上游SHA256": "ac89a7e1fd41d146e34d7c15be393a7b829774ffb8fbaa1df378f16bdb3d29e1",
+    "替换前发行SHA256": "ac89a7e1fd41d146e34d7c15be393a7b829774ffb8fbaa1df378f16bdb3d29e1",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-arrowUp.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-arrowUp.svg",
+    "逐字一致": false,
+    "发行SHA256": "f76f6cc5e50fe25865dbf403a816016b1cf8d4de1bb4e230ff5b541b69bcde34",
+    "上游SHA256": "14ac5376283ecac668371746948f1dbcc14c1db3d811c81dcd334416ca1d7e1a",
+    "替换前发行SHA256": "14ac5376283ecac668371746948f1dbcc14c1db3d811c81dcd334416ca1d7e1a",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-arrowUpRight.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-arrowUpRight.svg",
+    "逐字一致": false,
+    "发行SHA256": "650d641faa2a5f154897faf01e73ff29b515530387274d350dc093f3b27f8278",
+    "上游SHA256": "bcf1918ca943a7b982458fbd0be0c2feb3a517cce3debc551c0afbe2b25617a0",
+    "替换前发行SHA256": "bcf1918ca943a7b982458fbd0be0c2feb3a517cce3debc551c0afbe2b25617a0",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-bold.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-bold.svg",
+    "逐字一致": false,
+    "发行SHA256": "d73a83236742b837b234edb4940e96a9cce5a6f226e17a732bc7adceab7c856e",
+    "上游SHA256": "91ca0e11fdacbf2db830a6d613da09788056b6ea7c9b5fa17851d575dc695feb",
+    "替换前发行SHA256": "91ca0e11fdacbf2db830a6d613da09788056b6ea7c9b5fa17851d575dc695feb",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-building.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-building.svg",
+    "逐字一致": false,
+    "发行SHA256": "76305edbf53fc4c179f681300221cf9317fe85568d3adedfb620c3cdbc65e2f1",
+    "上游SHA256": "489056608adf36a9f512821518af60e80b9f8089d498b82121875b3090496f34",
+    "替换前发行SHA256": "489056608adf36a9f512821518af60e80b9f8089d498b82121875b3090496f34",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-calendar.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-calendar.svg",
+    "逐字一致": false,
+    "发行SHA256": "5c0372f26e27a19c72b51e27315fa57d0dddbc325c6a2bf0ec32218e3a542ef6",
+    "上游SHA256": "b6e0e5a4f8220c2e5c0d460f9aae103d757fac724f079cfa0e4c9b555ec24aa2",
+    "替换前发行SHA256": "b6e0e5a4f8220c2e5c0d460f9aae103d757fac724f079cfa0e4c9b555ec24aa2",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-chatBubble.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-chatBubble.svg",
+    "逐字一致": false,
+    "发行SHA256": "e9a21846ffdb0c1a2b0d5937bee04909abcfc08917e3895b71763562574817eb",
+    "上游SHA256": "e9258804a30e890a6f66154115bd0fb5ee168c5073db54ca7e232c719fbfdf7c",
+    "替换前发行SHA256": "e9258804a30e890a6f66154115bd0fb5ee168c5073db54ca7e232c719fbfdf7c",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-chatgpt.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-chatgpt.svg",
+    "逐字一致": false,
+    "发行SHA256": "b64f73b0be93e8bea62200ecf6c0840e19e7b064f9eaf9ecf89a7153cd373fe8",
+    "上游SHA256": "cba78c1e4e72b24a7db4fc0778cb1cb9e1564850997a43e25735ef75c35b68c4",
+    "替换前发行SHA256": "cba78c1e4e72b24a7db4fc0778cb1cb9e1564850997a43e25735ef75c35b68c4",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-check.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-check.svg",
+    "逐字一致": false,
+    "发行SHA256": "cf5d8f45a017604917c0d74ed9c49c6926b0df780c4c9ad3ad85fb7a392bf746",
+    "上游SHA256": "fa1dbd3611b7b9381d473f5fc5aafcaef17480e13d9afcba8138b10262e43fee",
+    "替换前发行SHA256": "fa1dbd3611b7b9381d473f5fc5aafcaef17480e13d9afcba8138b10262e43fee",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-checkboxChecked.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-checkboxChecked.svg",
+    "逐字一致": false,
+    "发行SHA256": "11327ffc60075230df95538ad1f48556eff52eebf2028892c083438ac53726a3",
+    "上游SHA256": "fff85250d9f1edbac7a61d23e5a780b348c76bc58d70fbb2343223876823e69d",
+    "替换前发行SHA256": "fff85250d9f1edbac7a61d23e5a780b348c76bc58d70fbb2343223876823e69d",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-checkboxUnchecked.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-checkboxUnchecked.svg",
+    "逐字一致": false,
+    "发行SHA256": "3855d336619de5adc61a0b5293db82cb9f5456b859a7daf0cd249653c6f31063",
+    "上游SHA256": "e202fd75b51a08be2bc3ff7e47fe883c0b8f45d9eb877d7684f19660223795b5",
+    "替换前发行SHA256": "e202fd75b51a08be2bc3ff7e47fe883c0b8f45d9eb877d7684f19660223795b5",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-chevronDown.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-chevronDown.svg",
+    "逐字一致": false,
+    "发行SHA256": "763bbc7f305bad8b852b5ae5feadfc08858acf97f19a5897aa8f1fe636abed45",
+    "上游SHA256": "d0e76111ab03cc7790eda06a1184e6622a458d4058baef39c19e3f21c70f601d",
+    "替换前发行SHA256": "d0e76111ab03cc7790eda06a1184e6622a458d4058baef39c19e3f21c70f601d",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-chevronLeft.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-chevronLeft.svg",
+    "逐字一致": false,
+    "发行SHA256": "6e7478a72752c404c2ff077dfb768a84b718255d7bf9ea547de9b080114592ee",
+    "上游SHA256": "8ee2e9be16b5aaf8523b0cb2f45266262d14a808c61d8bd4f073ccfa5a5dc948",
+    "替换前发行SHA256": "8ee2e9be16b5aaf8523b0cb2f45266262d14a808c61d8bd4f073ccfa5a5dc948",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-chevronRight.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-chevronRight.svg",
+    "逐字一致": false,
+    "发行SHA256": "2af3089fa09497d5725172b172196d193cbe8205bf70ad6f9078ce4773285001",
+    "上游SHA256": "b140e7a8852d56e0734ffc5d795dd4c62bfdd158c5ff3b6579dcb1bf9916baea",
+    "替换前发行SHA256": "b140e7a8852d56e0734ffc5d795dd4c62bfdd158c5ff3b6579dcb1bf9916baea",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-close.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-close.svg",
+    "逐字一致": false,
+    "发行SHA256": "a611112e8946480120e5e96f1d849651df76fa502f6190e293defaf6c4f56b07",
+    "上游SHA256": "5ed5dea467dc8f02cb9d95627d300af8e9e1c7ddac1a117e3d37978732bd7acf",
+    "替换前发行SHA256": "5ed5dea467dc8f02cb9d95627d300af8e9e1c7ddac1a117e3d37978732bd7acf",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-convert.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-convert.svg",
+    "逐字一致": false,
+    "发行SHA256": "56a0c93ebc51bce1db5062e4d6c1d29eeba4493e6d73a404e80ad88fa4af3e37",
+    "上游SHA256": "4a76b31c0a2621b5980e5a024b9a0128b30a8e39c4113232ddda295739ddccbc",
+    "替换前发行SHA256": "4a76b31c0a2621b5980e5a024b9a0128b30a8e39c4113232ddda295739ddccbc",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-copy.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-copy.svg",
+    "逐字一致": false,
+    "发行SHA256": "0e68d3e49db956dfe42e8dfac1d8596081ee0a6fc5480fc6318d231bb07616d9",
+    "上游SHA256": "ce35441b3c8b98cb51a73b3720cf970a2f707aa629cba1a9a8e36c0901e92afb",
+    "替换前发行SHA256": "ce35441b3c8b98cb51a73b3720cf970a2f707aa629cba1a9a8e36c0901e92afb",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-cross.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-cross.svg",
+    "逐字一致": false,
+    "发行SHA256": "a611112e8946480120e5e96f1d849651df76fa502f6190e293defaf6c4f56b07",
+    "上游SHA256": "85f94b605c8e61ab57ce2cc7a9118233c68299594055c86db531d3e3731ba0e5",
+    "替换前发行SHA256": "85f94b605c8e61ab57ce2cc7a9118233c68299594055c86db531d3e3731ba0e5",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-database.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-database.svg",
+    "逐字一致": false,
+    "发行SHA256": "8f4cfe4259518e162d0bc3fbd817178fb0c455f45b3159789845ca925a119710",
+    "上游SHA256": "efede7507d2f9dc2efc2f970ba44635f6de45a94860e111652fe27c549eebcf2",
+    "替换前发行SHA256": "efede7507d2f9dc2efc2f970ba44635f6de45a94860e111652fe27c549eebcf2",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-documentRefresh.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-documentRefresh.svg",
+    "逐字一致": false,
+    "发行SHA256": "ed2c7e67bf32cb37dee56ee9c1ccdb808fd85e4195df5afb28b694fa1ec080ca",
+    "上游SHA256": "917f75208b97799fa0ead171601b476640bf39cef8abfb4595c4afdd41cb1822",
+    "替换前发行SHA256": "917f75208b97799fa0ead171601b476640bf39cef8abfb4595c4afdd41cb1822",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-download.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-download.svg",
+    "逐字一致": false,
+    "发行SHA256": "bc9a77e3390e5c8b3e79f9dcc955f950b608d76877d58b920ed2bb8dac4488a3",
+    "上游SHA256": "1a36951ac27c386de68db6e8fea94b10f94c7b18a8c78078acf3d1cbf3dd5122",
+    "替换前发行SHA256": "1a36951ac27c386de68db6e8fea94b10f94c7b18a8c78078acf3d1cbf3dd5122",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-edit.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-edit.svg",
+    "逐字一致": false,
+    "发行SHA256": "ad01ac9a96ecb8e35b54a505756072e9d297d6ed51dbebbd74d6605bfcc9c770",
+    "上游SHA256": "6d87e17048723e18d025a78578cbe9bb6c7ae0678d384ab314a4ba4cb30e652a",
+    "替换前发行SHA256": "6d87e17048723e18d025a78578cbe9bb6c7ae0678d384ab314a4ba4cb30e652a",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-eye.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-eye.svg",
+    "逐字一致": false,
+    "发行SHA256": "3eb607cfbd394442f231a2a377d5e149a41846cc7fe48e711e8141141b68d791",
+    "上游SHA256": "d4bd76a4bbaaacbbd88ed2b9bbc29c1e510c8c1e591b35b7ea34dec701b9f6b4",
+    "替换前发行SHA256": "d4bd76a4bbaaacbbd88ed2b9bbc29c1e510c8c1e591b35b7ea34dec701b9f6b4",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-globe.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-globe.svg",
+    "逐字一致": false,
+    "发行SHA256": "994924c198fe332f0de7eb5953610c6bce145b93db86c97d7183ce170a6038cc",
+    "上游SHA256": "6b0d8c4310da06e63f2d9933a4d4d09dbdf5c59736f9c7a9929bd8e2c4cc184f",
+    "替换前发行SHA256": "6b0d8c4310da06e63f2d9933a4d4d09dbdf5c59736f9c7a9929bd8e2c4cc184f",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-info.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-info.svg",
+    "逐字一致": false,
+    "发行SHA256": "2dbeb8e85ec1aae8eedea831deb24a31b04917bceae5ce63bd49eaf07fdaf425",
+    "上游SHA256": "f5bdae0061d89fb8ebe61b99e56afeb74c2eb16acc529735fcd0b432b9f88e70",
+    "替换前发行SHA256": "f5bdae0061d89fb8ebe61b99e56afeb74c2eb16acc529735fcd0b432b9f88e70",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-italic.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-italic.svg",
+    "逐字一致": false,
+    "发行SHA256": "18ee83f9eca22a0b79afd37a1e9f038e7adece940b93a165afdf0024d22a656a",
+    "上游SHA256": "7bc323dabc86a5a4804df4343228c83d98f844833f9a51949fe4986b2faca2e3",
+    "替换前发行SHA256": "7bc323dabc86a5a4804df4343228c83d98f844833f9a51949fe4986b2faca2e3",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-link.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-link.svg",
+    "逐字一致": false,
+    "发行SHA256": "b9b459f896caf86a0713c034957857e47c61f37262365d0114c9870997bfe114",
+    "上游SHA256": "eee0f5946f827869adff8b4a7844dcf0f804aeed678f9bb4bce71f8c71cab796",
+    "替换前发行SHA256": "eee0f5946f827869adff8b4a7844dcf0f804aeed678f9bb4bce71f8c71cab796",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-lock.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-lock.svg",
+    "逐字一致": false,
+    "发行SHA256": "075588fa9dd4cf8f4465aa74a767533273c40ab257dade6623676474709a6577",
+    "上游SHA256": "3e29a543cd126e32581fe676f447c51552599cf39d23a898c66145d10afdbe10",
+    "替换前发行SHA256": "3e29a543cd126e32581fe676f447c51552599cf39d23a898c66145d10afdbe10",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-monitor.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-monitor.svg",
+    "逐字一致": false,
+    "发行SHA256": "0d77be3ea68ffd82ada70d752f7986194a49ed5137d4f9fd7ae74c2e8d680e5b",
+    "上游SHA256": "f72107e48efee8a64f9617fff594b4e3a3834793e6b6fe2e9d70f53cd03192eb",
+    "替换前发行SHA256": "f72107e48efee8a64f9617fff594b4e3a3834793e6b6fe2e9d70f53cd03192eb",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-moon.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-moon.svg",
+    "逐字一致": false,
+    "发行SHA256": "3002badbef72a8f85358b3fe844ccac9c6e9638cc8088fb197426e8aeee6e0a9",
+    "上游SHA256": "fd4904e4b3b937ab24e126d856fbea4c36e1dbc7598702289316640b01c1cfc4",
+    "替换前发行SHA256": "fd4904e4b3b937ab24e126d856fbea4c36e1dbc7598702289316640b01c1cfc4",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-more.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-more.svg",
+    "逐字一致": false,
+    "发行SHA256": "97c6135170637b2ef189bb40a506c897db3e1bdc5b8326a7c03309e5bca97e8d",
+    "上游SHA256": "6239574c52f752c2f56798078c707e7fb13b11b28d6ba3702d3f01444fb8744e",
+    "替换前发行SHA256": "6239574c52f752c2f56798078c707e7fb13b11b28d6ba3702d3f01444fb8744e",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-palette.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-palette.svg",
+    "逐字一致": false,
+    "发行SHA256": "4f972f5fb3efa271960da26ecd9b258bcb89e83b290bbe3758bef44afaafc0df",
+    "上游SHA256": "29b4e9c8dd944d6cd597204a02d38cada61b53efd8f192bde0e5e5ca93837aeb",
+    "替换前发行SHA256": "29b4e9c8dd944d6cd597204a02d38cada61b53efd8f192bde0e5e5ca93837aeb",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-plus.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-plus.svg",
+    "逐字一致": false,
+    "发行SHA256": "dfcf07b39b0f4c0b422595ae488fb08c468ef4782f6ef37d0deceaadfb2a5693",
+    "上游SHA256": "6be74c224110551d27eaeb946e3230ea6f873fc183694fb2f029a98e029d6002",
+    "替换前发行SHA256": "6be74c224110551d27eaeb946e3230ea6f873fc183694fb2f029a98e029d6002",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-refresh.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-refresh.svg",
+    "逐字一致": false,
+    "发行SHA256": "801cc03b84a654de114a2707c9b1c6aa9a3b732c4ffc9e5df0f63f02e1ba0105",
+    "上游SHA256": "917f75208b97799fa0ead171601b476640bf39cef8abfb4595c4afdd41cb1822",
+    "替换前发行SHA256": "917f75208b97799fa0ead171601b476640bf39cef8abfb4595c4afdd41cb1822",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-remix.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-remix.svg",
+    "逐字一致": false,
+    "发行SHA256": "572ed23bff9ac3c0dc95ea539c4bc74d32af8aaea0159be7afc8a7d08211f4b4",
+    "上游SHA256": "b15cea131c81cc4bf22389ec4d9af1c509e8e5a3b6cf6bd3efd2517dfb19c580",
+    "替换前发行SHA256": "b15cea131c81cc4bf22389ec4d9af1c509e8e5a3b6cf6bd3efd2517dfb19c580",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-search.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-search.svg",
+    "逐字一致": false,
+    "发行SHA256": "e0d89f53155655032f5c07fd8da930800b62b69a778d1dd76b388b9b78bf1d3f",
+    "上游SHA256": "50f34bb3c31c88f067ddef77ee905d169c174115f3902efb96714385d03a1365",
+    "替换前发行SHA256": "50f34bb3c31c88f067ddef77ee905d169c174115f3902efb96714385d03a1365",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-sendUp.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-sendUp.svg",
+    "逐字一致": false,
+    "发行SHA256": "850ed5c3de2130276b206e56aac7567ed1cd4ae46420639fd084bde02206b1e0",
+    "上游SHA256": "01bab7cee85f6f8d10792872b240854f1a3f1ae43166440395229b0fe74abd3b",
+    "替换前发行SHA256": "01bab7cee85f6f8d10792872b240854f1a3f1ae43166440395229b0fe74abd3b",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-settings.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-settings.svg",
+    "逐字一致": false,
+    "发行SHA256": "f2235dfd6c69bdad1acd08554ba19557becefa526b21ae4cfabf8fe7bbc48796",
+    "上游SHA256": "6167badd421c478ab855eeca26d3ea4762af36cc1ee091829140690bb202ac23",
+    "替换前发行SHA256": "6167badd421c478ab855eeca26d3ea4762af36cc1ee091829140690bb202ac23",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-shieldCheck.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-shieldCheck.svg",
+    "逐字一致": false,
+    "发行SHA256": "999d49aefa7f0cab77de2853e167feb3d6b6424b4bd30a3090513c71813fd7fe",
+    "上游SHA256": "914d474f40a27479ce1277685509d47a1b31d5e9cf46b20304b1240ce426817e",
+    "替换前发行SHA256": "914d474f40a27479ce1277685509d47a1b31d5e9cf46b20304b1240ce426817e",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-sites.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-sites.svg",
+    "逐字一致": false,
+    "发行SHA256": "a052ec65c72dccb9f75fa0918389761583200b787292c248a98d331447d7ada0",
+    "上游SHA256": "200345e38648750c5a3943bbca030e25c82b0162a4d22e2525e5be485a07f02f",
+    "替换前发行SHA256": "200345e38648750c5a3943bbca030e25c82b0162a4d22e2525e5be485a07f02f",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-sliders.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-sliders.svg",
+    "逐字一致": false,
+    "发行SHA256": "d2b52bb681ecad5c0710c4bba8684fd7be8dfe1d2bf3c10e865dff242cf3775f",
+    "上游SHA256": "7155043b9fc09130b06da1e2f11c54f0fbdff7ba026c0bb1851fff67ff045549",
+    "替换前发行SHA256": "7155043b9fc09130b06da1e2f11c54f0fbdff7ba026c0bb1851fff67ff045549",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-spinner.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-spinner.svg",
+    "逐字一致": false,
+    "发行SHA256": "83789c9ed68cc3f4f290736a2fd5e0acae39ba2b8705a5b7e34d507f1f44477a",
+    "上游SHA256": "922606ecce4da0d88f02e09d1c1b1c4e954bcdd78a2abed56b9c791f3f7807be",
+    "替换前发行SHA256": "922606ecce4da0d88f02e09d1c1b1c4e954bcdd78a2abed56b9c791f3f7807be",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-stop.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-stop.svg",
+    "逐字一致": false,
+    "发行SHA256": "3855d336619de5adc61a0b5293db82cb9f5456b859a7daf0cd249653c6f31063",
+    "上游SHA256": "bbf3a955167cbe58a8e89c4b9c169015567e3396bbd5ad0425499aa5b5171f67",
+    "替换前发行SHA256": "bbf3a955167cbe58a8e89c4b9c169015567e3396bbd5ad0425499aa5b5171f67",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-summaryBubble.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-summaryBubble.svg",
+    "逐字一致": false,
+    "发行SHA256": "2a71185554f87869e44fabc326f2bcadf61f14a174f402f8ea88b30978fc29b1",
+    "上游SHA256": "b3e045b3418a4ba33c20c785dc7eb3073887e4eb67b7b84976912fd2e886a4b0",
+    "替换前发行SHA256": "b3e045b3418a4ba33c20c785dc7eb3073887e4eb67b7b84976912fd2e886a4b0",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-sun.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-sun.svg",
+    "逐字一致": false,
+    "发行SHA256": "19d684776d546b673d45fc54b7dee7b22f18e0b2e673612220727e90f46fb4cf",
+    "上游SHA256": "744c94ee224f3fa62344164927d56719de26590b32498f0ca13ed297c0fc3b7a",
+    "替换前发行SHA256": "744c94ee224f3fa62344164927d56719de26590b32498f0ca13ed297c0fc3b7a",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-textDocument.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-textDocument.svg",
+    "逐字一致": false,
+    "发行SHA256": "0f68908abe19543be363a403a4239f288236840ede01eec2af65830c3ba7f22c",
+    "上游SHA256": "a4f7ccc2425115911af1cddddbff83864045aa7cc0add8d22f8135b27a9085f0",
+    "替换前发行SHA256": "a4f7ccc2425115911af1cddddbff83864045aa7cc0add8d22f8135b27a9085f0",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-theme.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-theme.svg",
+    "逐字一致": false,
+    "发行SHA256": "4f972f5fb3efa271960da26ecd9b258bcb89e83b290bbe3758bef44afaafc0df",
+    "上游SHA256": "29b4e9c8dd944d6cd597204a02d38cada61b53efd8f192bde0e5e5ca93837aeb",
+    "替换前发行SHA256": "29b4e9c8dd944d6cd597204a02d38cada61b53efd8f192bde0e5e5ca93837aeb",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-trash.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-trash.svg",
+    "逐字一致": false,
+    "发行SHA256": "0367c1f1ea8be2af6dcd38e79c944dc2667ad725488fb9e2d4d1d8826d7b418f",
+    "上游SHA256": "3ee541a3937fe1f1d41b607da8e602ecbbfe8a5f60333b82ce8ab67bd7461f8b",
+    "替换前发行SHA256": "3ee541a3937fe1f1d41b607da8e602ecbbfe8a5f60333b82ce8ab67bd7461f8b",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/dashboard-icon-undo.svg",
+    "上游相对路径": "src/components/icons/dashboard-icon-undo.svg",
+    "逐字一致": false,
+    "发行SHA256": "e16d552ee4fca9fae9e23c967d8672532be8869fe308a7fc109ce607450c8f3b",
+    "上游SHA256": "bebef36b99f928445155a3f1b2e8b331ca215fafbcb025c2c83ef32d9dd196e3",
+    "替换前发行SHA256": "bebef36b99f928445155a3f1b2e8b331ca215fafbcb025c2c83ef32d9dd196e3",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-chart.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-chart.svg",
+    "逐字一致": false,
+    "发行SHA256": "8bdd5bd1e17fb388010704ccb786aaa93fd403f60c4e61117a7a9e8bf8ee417b",
+    "上游SHA256": "f0a5cc90d98ed7252b6deabb38384303f0014e6f98862616e00645148a2d6872",
+    "替换前发行SHA256": "f0a5cc90d98ed7252b6deabb38384303f0014e6f98862616e00645148a2d6872",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-document.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-document.svg",
+    "逐字一致": false,
+    "发行SHA256": "0f68908abe19543be363a403a4239f288236840ede01eec2af65830c3ba7f22c",
+    "上游SHA256": "3eb5b50ae68bb2b591259f15dfac0c932da21ad848035a0dff5f276fc4aa672c",
+    "替换前发行SHA256": "3eb5b50ae68bb2b591259f15dfac0c932da21ad848035a0dff5f276fc4aa672c",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-file-audio.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-file-audio.svg",
+    "逐字一致": false,
+    "发行SHA256": "34f1398462e012ecab500bba41dd67a250ba3669a9ca57063923bd7549d50808",
+    "上游SHA256": "d10f139b197624b2ac005606db4800da745c07c2001d890bba41d3f3671cd15d",
+    "替换前发行SHA256": "d10f139b197624b2ac005606db4800da745c07c2001d890bba41d3f3671cd15d",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-file-code.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-file-code.svg",
+    "逐字一致": false,
+    "发行SHA256": "9ea54538d54983fc9b8891e8f067e44c039c2dac279b814fa44f792264e24dea",
+    "上游SHA256": "72c6a797ed6dd0e3a8650e4c978982912505483f919359480afa8ee3d99ef780",
+    "替换前发行SHA256": "72c6a797ed6dd0e3a8650e4c978982912505483f919359480afa8ee3d99ef780",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-file-image.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-file-image.svg",
+    "逐字一致": false,
+    "发行SHA256": "4c3e6e4979cba347b6eb8f7523aae00f039500b2bdce48156ad783c283ab54e3",
+    "上游SHA256": "5d7f10c0d06473434b93fd8f993728733ad649d9d374830ce2b6b03116066b23",
+    "替换前发行SHA256": "5d7f10c0d06473434b93fd8f993728733ad649d9d374830ce2b6b03116066b23",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-file-presentation.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-file-presentation.svg",
+    "逐字一致": false,
+    "发行SHA256": "5c88f753ea9b548265533300ced5651051745beaee49a9bc6216e49ac1f84f95",
+    "上游SHA256": "d66a94e724adffac73374312f5bacb4c28910bb85669876192df9ffcda66bc78",
+    "替换前发行SHA256": "d66a94e724adffac73374312f5bacb4c28910bb85669876192df9ffcda66bc78",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-file-video.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-file-video.svg",
+    "逐字一致": false,
+    "发行SHA256": "005bdae1790200154c70e091afbd40741b5eb61d679d40669c8becad43a2076f",
+    "上游SHA256": "ebc49ae92ea9ed8484f6d52080b0f205f31e56b993f7a052a14967a38d134b27",
+    "替换前发行SHA256": "ebc49ae92ea9ed8484f6d52080b0f205f31e56b993f7a052a14967a38d134b27",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-file.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-file.svg",
+    "逐字一致": false,
+    "发行SHA256": "5c653e9d381e126d75951e29ead2334ee4798356dd01b471ce1ce453dab975a0",
+    "上游SHA256": "58a0f5a1ea78a0c114fc74c44160c0708c92e41ffd6f14e829173f5fe047b71a",
+    "替换前发行SHA256": "58a0f5a1ea78a0c114fc74c44160c0708c92e41ffd6f14e829173f5fe047b71a",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-link.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-link.svg",
+    "逐字一致": false,
+    "发行SHA256": "b9b459f896caf86a0713c034957857e47c61f37262365d0114c9870997bfe114",
+    "上游SHA256": "61b98747b27424feca44c0ff694c445e2ad74228e483b953fea722c55e706acf",
+    "替换前发行SHA256": "61b98747b27424feca44c0ff694c445e2ad74228e483b953fea722c55e706acf",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/receipt-icon-table.svg",
+    "上游相对路径": "src/components/icons/receipt-icon-table.svg",
+    "逐字一致": false,
+    "发行SHA256": "318135daaf970c27a19aa44e8fa703abe9393cc9d602206526c4b848470f5703",
+    "上游SHA256": "cba9c8de3a1dd0546cad18b09b6907f82bf68ec28d65513219308c40f3d60742",
+    "替换前发行SHA256": "cba9c8de3a1dd0546cad18b09b6907f82bf68ec28d65513219308c40f3d60742",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/source-icon-github.svg",
+    "上游相对路径": "src/components/icons/source-icon-github.svg",
+    "逐字一致": false,
+    "发行SHA256": "2c81fc736815fb13d645bd8a9b49aa0ddf06c6ef5a31dc099a78ca8a215b8dae",
+    "上游SHA256": "1a6f230a6debcc742730be9d8419766eb670b96f454fbefb71ecac89cf64e081",
+    "替换前发行SHA256": "1a6f230a6debcc742730be9d8419766eb670b96f454fbefb71ecac89cf64e081",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/source-icon-google-drive.svg",
+    "上游相对路径": "src/components/icons/source-icon-google-drive.svg",
+    "逐字一致": false,
+    "发行SHA256": "86c8c22e2e65cb913348935228c857de676f658cae3eb9acda7b79de53168bc6",
+    "上游SHA256": "4b413acdf0642e710741d531a3c19582a9bec50de64b398b17f3cb7b0ce0fa06",
+    "替换前发行SHA256": "4b413acdf0642e710741d531a3c19582a9bec50de64b398b17f3cb7b0ce0fa06",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/source-icon-google-sheets.svg",
+    "上游相对路径": "src/components/icons/source-icon-google-sheets.svg",
+    "逐字一致": false,
+    "发行SHA256": "80f392c20dd344794afa1afbbeea251d9de59ad186864a0d26543979bd6a99f1",
+    "上游SHA256": "165b4c145808a18f4052dd51bf0e84b68901cd41a89099dbb5a57cfe639bbecf",
+    "替换前发行SHA256": "165b4c145808a18f4052dd51bf0e84b68901cd41a89099dbb5a57cfe639bbecf",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/source-icon-notion.svg",
+    "上游相对路径": "src/components/icons/source-icon-notion.svg",
+    "逐字一致": false,
+    "发行SHA256": "23e250f7684f1d7f40b06e80c9ed8198289bedb4ce71cceb80c88ffb7ea44639",
+    "上游SHA256": "eef8f46b63fb120abd63ca2e58e7f4be0a230c3e30276e6e438897b66b695508",
+    "替换前发行SHA256": "eef8f46b63fb120abd63ca2e58e7f4be0a230c3e30276e6e438897b66b695508",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/components/icons/source-icon-slack.svg",
+    "上游相对路径": "src/components/icons/source-icon-slack.svg",
+    "逐字一致": false,
+    "发行SHA256": "beab742c2a6d37178c1397d66594a440037f57b2c9455ceab9e2815276684d12",
+    "上游SHA256": "b5a8d11655966384c3884e011232a2c83ab5f813187e3c0e49d4410b145b65f1",
+    "替换前发行SHA256": "b5a8d11655966384c3884e011232a2c83ab5f813187e3c0e49d4410b145b65f1",
+    "当前来源": "lucide-static@1.61.0",
+    "状态": "旧模板SVG已替换，ISC及Feather MIT声明已保留"
+  },
+  {
+    "发行路径": "网页应用/src/content/dashboard/dashboard.css",
+    "上游相对路径": "src/content/dashboard/dashboard.css",
+    "逐字一致": false,
+    "发行SHA256": "81d54e6bd8c8c0ac3e0eef28188fe6cc8a60d600389ad5f259030d3299f776ba",
+    "上游SHA256": "591d1eecf0ef77ca0322833cad73d203acf22e194cfecb48e6c20aa8c6aaa2d5"
+  },
+  {
+    "发行路径": "网页应用/src/content/dashboard/DashboardContent.jsx",
+    "上游相对路径": "src/content/dashboard/DashboardContent.jsx",
+    "逐字一致": false,
+    "发行SHA256": "f8df4ae3a4315a4f6369113232b60651f93aebd747697cd44551972aba42f714",
+    "上游SHA256": "d582d026a586a4a6250d9fe1e485066022b25c213a7515c434ae108a3bf6fa0a"
+  }
+]

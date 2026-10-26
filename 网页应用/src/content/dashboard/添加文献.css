@@ -1,0 +1,12 @@
+.paper-import{max-width:560px;width:calc(100vw - 32px)}
+.paper-import form{display:grid;gap:16px;padding:16px;max-height:75dvh;overflow:auto}
+.paper-import label{display:grid;gap:8px}
+.paper-import input{min-width:0;width:100%;padding:8px;border:1px solid var(--border);border-radius:6px;background:var(--surface);color:var(--text);font:inherit;box-sizing:border-box}
+.paper-import footer{display:flex;justify-content:flex-end;gap:12px}
+.paper-import p{margin:0;font-size:14px;line-height:1.6}
+.paper-import button,.paper-add{min-height:36px;padding:8px 12px;border:1px solid var(--border);border-radius:6px;background:var(--surface);color:var(--text);cursor:pointer}
+.paper-import button:hover,.paper-add:hover{background:var(--muted)}
+.paper-import input:focus-visible,.paper-import button:focus-visible,.paper-add:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.paper-import button:disabled,.paper-add:disabled{opacity:.5;cursor:default}
+.paper-import [role=alert]{color:var(--text);border-left:3px solid currentColor;padding-left:8px}
+@media(max-width:767px){.paper-import input{font-size:16px}.paper-import button,.paper-add{min-height:44px}}

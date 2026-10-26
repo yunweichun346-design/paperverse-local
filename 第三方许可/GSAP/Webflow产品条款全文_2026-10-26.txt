@@ -1,0 +1,353 @@
+Product Terms | Webflow
+Skip to Main Content
+Webflow
+Platform
+→
+Platform
+←
+Back
+Build
+Design
+Edit content
+Interactions
+Collaboration
+Page building
+Manage
+CMS
+Hosting
+Localize
+Security
+Shared Libraries
+Convert
+Analyze
+Optimize
+SEO
+AEO
+Campaigns new
+Extend
+Apps
+Figma to Webflow
+Webflow Cloud
+DevLink
+MCP
+Platform Overview
+Explore the power of the Webflow platform
+Learn more about Platform
+Webflow AI
+Elevate web experiences with the power of AI
+Learn more about Ai
+I'm a
+Marketer
+Marketer
+Designer
+Developer
+Agency
+Appearance
+Light mode
+Dark mode
+Auto (OS)
+Source
+Solutions
+→
+Solutions
+←
+Back
+Marketing
+Brand
+Performance
+Digital Experience
+Ops
+Engineering
+Engineering leaders
+Developers
+Service Providers
+Agencies
+Freelancers
+Global Alliances
+Enterprise
+Advanced collaboration workflows and enterprise-grade scalability.
+Learn more about Enterprise
+AEO
+Show up in AI-driven search with the power of Webflow.
+Learn more about AEO
+I'm a
+Marketer
+Marketer
+Designer
+Developer
+Agency
+Appearance
+Light mode
+Dark mode
+Auto (OS)
+Resources
+→
+Resources
+←
+Back
+Get started
+Templates
+Made in Webflow
+Hire a Certified Partner
+Developers
+Learn
+Webflow University
+Blog
+Webinars & ebooks
+The Webflow Way
+Discover
+Customer stories
+Our Community
+Partner with Webflow
+AEO Assessment
+Get help
+Support
+Join the Community
+I'm a
+Marketer
+Marketer
+Designer
+Developer
+Agency
+Appearance
+Light mode
+Dark mode
+Auto (OS)
+Enterprise
+Pricing
+Site Settings
+Site Settings
+←
+Back
+I'm a
+Marketer
+Marketer
+Designer
+Developer
+Agency
+Appearance
+Light mode
+Dark mode
+Auto (OS)
+I'm a
+Marketer
+Marketer
+Designer
+Developer
+Agency
+Appearance
+Light mode
+Dark mode
+Auto (OS)
+Get started
+Login
+Login
+Log in
+Contact Sales
+Contact Sales
+Start for free
+Start for free
+Start for free
+Contact Sales
+Trusted by teams at
+Terms and Agreements
+Terms of Service
+Product Terms
+Beta Terms
+Data Processing Addendum
+Creator Agreement
+Privacy Resources
+Global Privacy Policy
+EU & Swiss Privacy Policy
+Cookie Policy
+Subprocessors
+Privacy FAQs
+Policies
+Acceptable Use Policy
+Intellectual Property Policy
+Trademark Usage Policy
+Product Terms
+Last modified date: May 11, 2026
+1. General
+As more fully described herein, if you in your sole discretion wish to access and/or use of any of the additional Webflow products or services specified herein (each, an “Additional Product Offering”), your use is subject to the applicable Additional Product Offering’s terms and conditions contained in these Product Terms (“Product Terms”). As used herein, “you” or “Customer” means the individual or entity you are accessing or using the Platform on behalf of.
+In choosing to utilize any Additional Product Offering, you ( 1 ) confirm that you have reviewed and agree to be bound by Sections 1 (“General”), Section 11 (“Miscellaneous”), and the applicable Additional Product Offering’s terms and conditions herein; and ( 2 ) acknowledge and agree such terms are hereby incorporated by reference into the applicable subscription agreement between Customer and Webflow, Inc. (“Webflow”, “we”, “us”, or “our”), whether that is Webflow’s Terms of Service or a Master Subscription Agreement or related agreement between the parties (in either case, together with the applicable Product Terms, the “Agreement”). For reference, undefined capitalized terms used herein shall have the meanings ascribed to them elsewhere in the Agreement.
+For illustration purposes only, if you choose to use Webflow’s Localization Feature (Section 5) and no other Additional Product Offering, you agree to be bound by the terms and conditions of Sections 1, 5, and 11 of these Product Terms and such sections are thereby incorporated by reference into the Agreement between you and Webflow (the remaining Sections do not apply). For the avoidance of doubt, if you do not agree to Section 1 (“General”), Section 11 (“Miscellaneous”), and/or the applicable section(s) for any Additional Product Offering you wish to use, you may not use (and must discontinue any use of) the applicable Additional Product Offering.
+2. Third-Party Services
+2.1 Integrations, Offerings and Usage
+‍In your sole discretion, you may choose to integrate or enable for use with the Platform certain third-party services, platforms, applications, add-ons, integrations, and related offerings not provided by Webflow (collectively, “Third-Party Services”). Examples of Third-Party Services include (by way of example only and without limitation) E-Commerce Payment Processors (as defined below, e.g., Stripe), Apps (e.g., HubSpot), and other related partner and service provider integrations and extensions. You acknowledge and agree that Webflow may receive a revenue share from Third-Party Services that you choose to use as part of your use of the Webflow Platform. Notwithstanding, you acknowledge and agree that your use of any of these Third-Party Services is subject to and shall be governed by the applicable terms and conditions of your separate agreement with the relevant third-party provider. Webflow does not control and makes no representations or warranties with respect to any Third-Party Services and, to the maximum extent permissible under applicable laws, shall not be held liable for their security, functionality, operation, availability, interoperability, or how any Third-Party Service uses your Website Content or related data. When using Third-Party Services, your security is your responsibility. Notwithstanding the foregoing, if you choose to use a Third-Party Service with your use of the Platform, you acknowledge and agree that ( 1 ) you are authorizing Webflow to access and share your Website Content or related data with the Third-Party Service on your behalf solely so the Third-Party Service may be provided or made available to you; and ( 2 ) any information that a Third-Party Service collects, stores and processes from you or your Webflow Account will be subject to such Third-Party Service’s terms of service, privacy notice, or similar terms, and is not subject to Webflow’s Privacy Policy or Data Processing Addendum.
+2.2 Responsibilities and Availability
+‍You further acknowledge and agree that ( 1 ) it is the sole responsibility of the respective Third-Party Service provider, and not Webflow, for providing all support, maintenance, and technical assistance to you with respect to their Third-Party Service(s) (including their interoperation with your Webflow Account and Website Content); ( 2 ) Webflow may, at any time and in our sole discretion and without any notice obligation, suspend, disable, or remove any Third-Party Service; and ( 3 ) to the maximum extent permissible under applicable law, Webflow shall not be liable for any losses, damages, or liabilities you may incur as a result of Webflow taking such action, including without limitation any loss of profits, data, goodwill or other intangible losses.
+3. Webflow E-Commerce
+In your sole discretion, you may choose to enable and use optional features within the Platform that permit you to provide or sell products and services to, and/or collect payments from, your End Users (collectively, “E-Commerce Activities”). In order to conduct E-Commerce Activities, you must be 18 years or older (or at least the legal age of majority in your country of residence) and you must provide your full legal name, current address, valid email address, and any other information we request.
+For the avoidance of doubt, Webflow is not a party to, and shall not be liable for, E-Commerce Activities you undertake or any related interactions between you and your End Users. Any products or services that you offer for sale in your E-Commerce Activities is your exclusive responsibility and your End Users can only seek damages that result from their purchases from you.
+You are solely responsible for your E-Commerce Activities, including but not limited to responsibility for the following:
+all Taxes and fees associated with your E-Commerce Activities, including without limitation any Taxes related to the purchase or sale of products or services in connection with your E-Commerce Activities;
+collecting, reporting, and remitting required Taxes to relevant government authorities;
+informing your End Users of required Taxes, and providing them with invoices as required by applicable law;
+monitoring distance sales thresholds in the European Union (as applicable) and other indirect Taxes (such as value-added tax or goods and services tax) and registration thresholds in the countries where you have customers or where you ship goods or provide services;
+registering for indirect Taxes in countries where you are required to register. You also agree that any tax estimates, reporting or related materials that we may provide via the Platform are for illustration purposes only, and you must not rely on them to comply with your tax obligations. We do not give tax advice, and nothing we say should be interpreted as such;
+fulfilling and delivering your products and services to your End Users;
+any claims or warranties you make in connection with your E-Commerce Activities and any claims made by End Users against you; and
+handling any comments or complaints related to your E-Commerce Activities, including without limitation any issues related to payments, promotions, refunds or chargebacks. You agree to provide accurate and complete contact information on your sites so that your End Users can submit comments or questions to you.
+To accept payments from your End Users in connection with your E-Commerce Activities, you must create and connect your Webflow Account to your payment processor account (e.g., Stripe) (the “E-Commerce Payment Processor”). Your relationship and account with the E-Commerce Payment Processor is governed by the E-Commerce Payment Processor’s terms, conditions, and policies (e.g., prohibited or restricted business activities). By way of example only and without limitation, by registering an account with Stripe as the E-Commerce Payment Processor, you agree that you will not conduct any E-Commerce Activities that are connected with any Prohibited and Restricted Businesses, which may vary from country to country. For the avoidance of doubt, Webflow does not control and is not liable for any issues you have with the E-Commerce Payment Processor or any transaction you enter into with or through it (e.g., obtaining invoices for any transaction fees associated with your E-Commerce Activities). The E-Commerce Payment Processor is a Third-Party Service, as described in Section 2 (“Third-Party Services”) of these Product Terms, and your use of the E-Commerce Payment Processor shall be subject to the terms and conditions in Section 2 (“Third-Party Services”) as well.
+4. Webflow Marketplace
+4.1 Third-Party Designers
+Webflow operates and provides an online marketplace (the “Marketplace”) where Webflow customers may find and review lists of third-party designers, freelancers, and partner agencies available for hire at https://webflow.com/designers/hire and https://experts.webflow.com to assist with creating Website Content or otherwise using the Platform (collectively, “Third-Party Designers”). For the avoidance of doubt, these lists are purely for informational purposes and Webflow does not ( 1 ) employ (and is not directly affiliated with) any of these Third-Party Designers, or ( 2 ) guarantee the accuracy, reliability, quality, or completeness of the work done by them. You agree it is your sole responsibility to vet any Third-Party Designers before you choose to hire them as well as any content they provide to you (e.g., customized Website Content) prior to your use of such content, and you assume all liability for any content they provide that you ultimately choose to use. Webflow may, in its discretion, investigate Third-Party Designers who receive multiple complaints, provided that Webflow does not guarantee that it will take any specific disciplinary action regarding such complaints.
+4.2 Marketplace Products
+‍Webflow’s Marketplace also allows you to select free or paid Templates, Libraries, and Apps that can be integrated or otherwise used by you as part of the Platform (collectively, "Marketplace Products"). For the avoidance of doubt, Marketplace Products may be developed and maintained by either Webflow or by third parties (e.g., designers or developers). Your selection or use of Marketplace Products provided by a third-party (the “Product Provider”) may require you to agree to additional terms and conditions required by the Product Provider for the applicable Marketplace Product. You acknowledge and agree that Webflow is not a party to the agreement between you and the Product Provider with respect to that Marketplace Product. Notwithstanding, you agree that Webflow is an intended third-party beneficiary to the agreement between you and the Product Provider with respect to that Marketplace Product and shall have the right (and will be deemed to have accepted the right) to enforce that agreement against you as a third-party beneficiary at our discretion.
+You acknowledge and agree that ( 1 ) Webflow is not responsible for and does not endorse or guarantee the quality of any Marketplace Products made available by a Product Provider; and ( 2 ) the applicable Product Provider is solely responsible for the Marketplace Product it provides, the content therein, any claims that you or any of your End Users may have relating to that Marketplace Product, and any technical support required if a problem arises with its respective Marketplace Product. To the maximum extent permissible under applicable law, Webflow assumes no responsibility and disclaims all liability in connection with your use of any third-party Marketplace Products.
+When you install and/or purchase a Marketplace Product via Webflow’s Marketplace, you may be required to make related payments directly to Webflow. For Marketplace Products not owned or operated by Webflow, you are receiving access rights to use such Marketplace Product from the applicable Product Provider.
+These rights granted to you to use any Marketplace Product are personal to you, and are not transferable to any third parties, such as your End Users. Any rights to provide or resell Marketplace Products to third parties must be granted directly by the Product Provider.
+5. Localization
+In your sole discretion, and subject to the terms of your payment plan (as set forth on https://webflow.com/pricing) or the applicable Order Form, you may purchase language translation services made available via the Platform that enable you to localize (e.g., translate) your Website Content and make it available to End Users in alternative languages for specific locales (the "Localization Feature"). For illustration purposes only, the Localization Feature is powered by the highly-reputed Amazon Translate machine learning engine.
+By using the Localization Feature, you acknowledge and agree that ( 1 ) the translation and localization provided via the Localization Feature (i) may not be 100% accurate, complete, or reliable and (ii) does not represent Webflow’s views; and ( 2 ) Webflow makes no guarantee regarding the accuracy, quality, reliability, or suitability of the output from the Localization Feature (“Localized Website Content”). Notwithstanding any other term of the Agreement, ( 1 ) the Localization Feature is provided “as is” without warranties or representations of any kind; ( 2 ) to the maximum extent permissible under applicable laws, Webflow disclaims any and all liability related to your use of the Localization Feature or any Localized Website Content; and ( 3 ) you assume all risks associated with your use of the Localization Feature and Localized Website Content, and you are solely responsible for: (a) thoroughly reviewing all Localized Website Content (including, without limitation, verifying its accuracy, authenticity, legality, reliability, and appropriateness for your contemplated use case(s)) before publishing, distributing, displaying, or otherwise using such Localized Website Content; and (b) ensuring that your Localized Website Content complies with all applicable laws and the terms of the Agreement.
+6. Webflow AI Offerings
+The Platform may include access to generative or agentic artificial intelligence features Webflow makes available to customers as part of the Platform (collectively, “AI Offerings”). Use of the AI Offerings is subject to the AI Terms available here.
+7. Webflow Optimize
+7.1 Webflow Optimize
+‍Subject to Customer’s ongoing compliance with the Agreement and the scope of use subscribed to by Customer, Customer may access and use Webflow’s website optimization Additional Product Offering known as “Webflow Optimize” during the Subscription Term.
+For the purposes of interpreting the Agreement, all references to “the Platform” or “the Webflow Platform” shall be deemed to (1) include Webflow Optimize if Customer also has an active subscription to access and use Webflow’s core services; or (2) solely and exclusively refer to Webflow Optimize if Customer does not separately have an active subscription to access and use use Webflow’s core services.
+For the avoidance of doubt, if you choose to (1) publish or in any way use any content generated or otherwise provided by Webflow Optimize, such content shall be deemed your “Website Content” as defined under the Agreement and is subject to all applicable obligations and other terms and conditions related to your Website Content set forth elsewhere in the Agreement; and (2) integrate, incorporate, or otherwise use any third-party products or services in your use of Webflow Optimize, such use is subject to Section 2 of these Product Terms (Third-Party Services).
+7.2 Customer Activity Data
+‍Customer understands and agrees that (1) Webflow Optimize is a machine learning tool that tracks and uses certain data consistent with how machine learning tools work; and (2) Webflow accordingly cannot modify or customize data uses on an individual customer basis. For clarity, Webflow Optimize collects and uses (A) information about the web browsing activities of your individual End Users (website visitors), such as browser data; and (B) other data that you choose to integrate into your instance of Webflow Optimize (collectively, “Customer Activity Data”). Customer represents and warrants that it has and shall maintain during the Subscription Term all rights, releases, and consents necessary to allow Webflow to process Customer Activity Data in the manner contemplated by the Agreement. For clarity, Customer Activity Data constitutes Customer’s Confidential Information under the Agreement.
+7.3 Third-Party Provider Data
+You acknowledge and agree that Webflow may share and/or obtain data from third-parties which includes, but is not limited to, firmographic data used to provide you enhanced data matching as part of Webflow Optimize (“Third-Party Provider Data”).
+7.4 Anonymous Data
+‍Customer agrees that Webflow will have the right to (i) combine Customer Activity Data with industry benchmarks and certain other datasets developed by Webflow (provided that the Customer Activity Data has been anonymized, de-identified, and aggregated) in order for Webflow Optimize to generate and deliver personalized optimization insights and recommendations; and (ii) compile and use data and information collected, derived, or otherwise generated from Customer’s use of Webflow Optimize that has been anonymized, de-identified, and aggregated so as not to identify or permit the identification of Customer, Authorized Users, or any other individuals (collectively, “Webflow Optimize Anonymized Data”). Except as set forth herein, the parties agree that Webflow owns all rights, title, and interests in and to Webflow Optimize Anonymized Data, and that Webflow may use such Webflow Optimize Anonymized Data for any business purpose during or after the Subscription Term.
+7.5 Webflow Proprietary Rights
+As between Webflow and Customer, Webflow exclusively owns all rights, title, and interests, including all Intellectual Property Rights, in and to Webflow Optimize and the Third-Party Provider Data, including (i) any improvements, enhancements and additional functionalities made by or for Webflow; and (ii) any ideas, know-how, inventions, methods or techniques developed or conceived by Webflow as a result of providing Webflow Optimize under the Agreement, including all patent rights. Subject to the foregoing, Webflow grants Customer a non-exclusive, non-sublicensable, royalty-free, and revocable license during the Subscription Term to store, use, and access the Third-Party Provider Data as part of its use of Webflow Optimize.
+7.6 Customer Proprietary Rights
+As between Webflow and Customer, Customer owns all rights, title, and interests, including all Intellectual Property Rights, in and to the Customer Activity Data. Customer grants Webflow and its service providers a non-exclusive, royalty-free, perpetual, and irrevocable license to store, use, modify, copy, distribute copies of and make derivative works based upon the Customer Activity Data in connection with (i) providing Webflow Optimize for the benefit of Customer and its Authorized Users; and (ii) improving and enhancing the functionality of Webflow Optimize (which, for clarity, excludes any use related to training Webflow’s generative artificial intelligence models). Notwithstanding any other term of the Agreement, Webflow’s exercise of its rights to the Customer Activity Data as described herein will not be a breach of its confidentiality obligations under the Agreement.
+8. Webflow Analyze
+Subject to Customer’s ongoing compliance with the Agreement and the scope of use subscribed to by Customer, Customer may access and use Webflow’s Additional Product Offering that enables you to collect analytics data about your End Users known as “Webflow Analyze” during the Subscription Term. Such analytics data may include but is not limited to the number of visitors to your website page(s); the countries from which your End Users visited your website; event tracking (e.g., how many times a button on a page is clicked); the browser language for your End Users; the website browser your End Users are using; and an aggregate breakdown by device type of your End Users (collectively, “Analytics Data”).
+By using Webflow Analyze, you acknowledge and agree that ( 1 ) you are solely responsible for implementing any privacy controls necessary for your compliance with Applicable Law (e.g., a consent management platform); ( 2 ) Analytics Data may not be 100% accurate, complete, or reliable; and ( 3 ) Webflow makes no guarantee regarding the accuracy, quality, or reliability of Analytics Data. Notwithstanding any other term of the Agreement, ( 1 ) Webflow Analyze is provided “as is” without warranties or representations of any kind; ( 2 ) to the maximum extent permissible under Applicable Law, Webflow disclaims any and all liability related to your use of Webflow Analyze; and ( 3 ) you assume all risks associated with your use of Webflow Analyze; and (4) you are solely responsible for thoroughly reviewing all Analytics Data before publishing, distributing, displaying, or otherwise using such Analytics Data (including, by way of example only and without limitation, verifying its accuracy, authenticity, legality, and reliability for your contemplated use case(s)).
+For the avoidance of doubt, if you choose to publish or otherwise use any content generated or otherwise provided by Webflow Analyze, such content shall be deemed your “Website Content” as defined under the Agreement and is subject to all applicable obligations and other terms and conditions related to your Website Content set forth elsewhere in the Agreement.
+9. GSAP Software License Agreement
+9.1 Definitions
+“GSAP License” means the terms and conditions of this GSAP Software License Agreement.
+"GSAP Products" means any Software made available at www.gsap.com or any successor sites, including but not limited to the GSAP animation library and related plugins, tools, or extensions.
+"Permitted Uses" means the implementation and/or use of GSAP Products on any website, web application, or digital interface by any person or entity (which may include, for clarity, those of companies that compete with Webflow in other areas of business).
+"Prohibited Uses" means any implementation and/or use of GSAP Products in tools that allow users to build visual animations without code that encourages, induces, or materially assists in creating a solution that competes with Webflow’s visual animation building capabilities.
+"Competitive Products" means any software, tool, or service that enables users to create, edit, or manage animations through a visual interface or builder similar to Webflow.
+9.2 Grant of License
+Subject to the terms and conditions of this GSAP License, Webflow grants you a non-exclusive, worldwide license to use, reproduce, display, and implement GSAP Products solely for Permitted Uses.
+9.3 Restrictions
+You may not:
+Use any GSAP Products for any Prohibited Uses without prior written consent;
+Reverse engineer any GSAP Products for the purpose of creating Competitive Products;
+Remove or alter any proprietary notices or branding from GSAP Products.
+9.4 Ownership and Intellectual Property
+All intellectual property rights in GSAP Products, including but not limited to copyright, patents, trademarks, and trade secrets, remain the exclusive property of Webflow. This GSAP License does not transfer any ownership rights in GSAP Products to you.
+9.5 Termination
+Webflow may terminate this GSAP License and revoke your access in its discretion if you fail to comply with any of these terms and conditions. Upon termination, you must cease all use of GSAP Products and destroy all copies in your possession.
+9.6 Miscellaneous Provisions
+9.6.1 General: This GSAP License is incorporated into and subject to Webflow’s Terms of Service available here. In the event of any conflict or inconsistency between this GSAP License and the Terms of Service, the terms of this GSAP License shall govern in relation to your use of any GSAP Products.
+9.6.2 Amendments: Webflow reserves the right to update or modify this GSAP License at any time by posting the revised terms on this website, provided that any such updates or modifications shall not result in any material degradation to the security, integrity, or functionality of any GSAP Products. You understand and agree that your continued use of any GSAP Products after such revisions to this GSAP License constitutes your acceptance of this GSAP License as revised. If you do not accept the revised GSAP License, you are prohibited from using versions of the GSAP Products released after the effective date of the revised GSAP License (as well as any updates made to previous versions). Notwithstanding, you may continue using previous versions of GSAP Products under the applicable terms licensed to you prior to the effective date of the revised GSAP License (for clarity, excluding any updates made thereto).
+9.6.3 No Waiver: Failure of Webflow to enforce any provision of this GSAP License shall not constitute a waiver of future enforcement of that or any other provision.
+10. Webflow Cloud
+10.1 Webflow Cloud Service
+‍Subject to Customer’s ongoing compliance with the Agreement and the scope of use subscribed to by Customer, as applicable, Customer may access and use Webflow’s Additional Product Offering known as “Webflow Cloud” that enables you to deploy, host, and manage full-stack web applications and dynamic web experiences on the same domain as your Webflow site(s). Webflow Cloud integrates with third-party code repositories to enable deployment workflows and supports specific web development frameworks. Such frameworks shall be determined/permitted by Webflow and updated from time to time in its sole discretion.
+10.2 Technical Limitations and Framework Support
+You acknowledge and agree that: (1) Webflow Cloud supports specific web development frameworks; (2) Webflow Cloud is subject to computational resource limitations set forth in the scope of use subscribed to by Customer (including, but not limited to, CPU usage, bandwidth constraints, and payload size restrictions); (3) Webflow Cloud may have additional technical limitations that Webflow may implement to ensure platform stability and performance; and (4) Webflow may monitor your usage of computational resources, bandwidth, and storage in connection with Webflow Cloud in order to determine compliance with the terms of the Agreement. If Webflow in its reasonable discretion determines your usage exceeds the limitations of the scope of use you’ve subscribed to or otherwise materially negatively impacts overall platform performance or other customers, Webflow may, in its sole discretion and upon prior notice: (a) throttle or limit your resource usage; (b) require you to upgrade to a higher-tier plan; or (c) suspend or limit your access to Webflow Cloud if you do not rightsize your usage within a reasonable time after notice from Webflow. To the maximum extent permissible under applicable law, Webflow shall not be liable for any losses, damages, or liabilities you may incur as a result of such resource limitations or enforcement actions.
+10.3 Third-Party Repository Integration
+Webflow Cloud enables integration with third-party code repository services, such as GitHub ("Repository Service(s)"). Your use of any Repository Service is subject to Section 2 of these Product Terms ("Third-Party Services") and the applicable terms and conditions of your separate agreement with the relevant Repository Service provider.
+10.4 Customer Responsibilities and Application Performance
+You are solely responsible for: (1) all code, applications, and content you deploy through Webflow Cloud, including ensuring such code is secure, functional, and compliant with applicable laws; (2) the performance, availability, and functionality of your deployed applications; (3) any data processing, storage, or transmission that occurs within your deployed applications; (4) maintaining appropriate security measures for your deployed applications and any data they handle; (5) ensuring your deployed applications comply with all applicable laws, regulations, and third-party terms of service; and (6) providing support to your End Users for any issues related to your deployed applications. For the avoidance of doubt, Webflow is not responsible for the functionality, security, or performance of applications you deploy through Webflow Cloud.
+10.5 Data Handling and Ownership
+As between you and Webflow, you retain ownership of all code, applications, and content you deploy through Webflow Cloud. You grant Webflow a non-exclusive, royalty-free license to host, store, and serve your deployed applications as necessary to provide Webflow Cloud. Any data generated by your deployed applications, including analytics data, logs, and user interactions, is considered your Customer Data under the Agreement.
+You agree that Webflow will have the right to generate (i) data by aggregating Customer Activity Data with other data so that results are non-personally identifiable with respect to you or your End Users; and (ii) capture anonymous learnings, logs, and data regarding use of Webflow Cloud by you and your Authorized Users (collectively, "Webflow Cloud Anonymized Data"). Except as set forth herein, the parties agree that Webflow owns all rights, title, and interests in and to Webflow Cloud Anonymized Data, and that Webflow may use such Webflow Cloud Anonymized Data for any business purpose during or after the Subscription Term.
+10.6 Disclaimers and Limitations
+By using Webflow Cloud, you acknowledge and agree that: (1) deployed applications may experience downtime, performance issues, or failures that are beyond Webflow's control; (2) Webflow makes no guarantee regarding the availability, performance, or reliability of your deployed applications; and (3) framework limitations may prevent you from using certain technologies or approaches in your applications.
+Notwithstanding any other term of the Agreement: (1) Webflow Cloud is provided "as is" without warranties or representations of any kind; (2) to the maximum extent permissible under applicable laws, Webflow disclaims any and all liability related to your use of Webflow Cloud, including but not limited to application failures, data loss, security breaches, or performance issues; and (3) you assume all risks associated with deploying and operating applications through Webflow Cloud. You are solely responsible for: (a) thoroughly reviewing all deployed applications and their functionality before making them available to End Users; and (b) ensuring that your deployed applications comply with all applicable laws and the terms of the Agreement.
+10.7 Indemnification
+You shall indemnify, defend, and hold harmless Webflow (including its Affiliates and its and their members, officers, directors, managers, employees, agents, successors, and permitted assigns) from and against any Losses arising from or relating to: (1) any third-party claim, suit, or action in connection with your use of Webflow Cloud; (2) any applications, code, or content deployed by you through Webflow Cloud; (3) any data processing or handling by your deployed applications; and (4) any violation of third-party rights or applicable laws by your deployed applications or related activities.
+11. Miscellaneous
+In the event of any conflict between these Product Terms and any other term of the Agreement, the applicable Product Terms shall govern, but solely with respect to such conflict. All other terms and conditions of the Agreement not expressly modified by these Product Terms shall remain in full force and effect.
+These Product Terms, together with the Agreement, set forth the final, complete, and exclusive agreement between the parties relating to the applicable subject matter hereof, and supersede any other agreements or communications relating thereto. Notwithstanding any other term of the Agreement, Webflow may modify or update these Product Terms from time to time in the usual course of business (e.g., when we introduce any new Additional Product Offering or need to update the terms in order to comply with applicable laws). In such an event Webflow will provide you with notice of any material changes, modifications, or updates to these Product Terms through your email Webflow has on file, through the Platform, and/or by updating the Effective Date at the top of these Product Terms, at Webflow's discretion. You are responsible for updating and maintaining your current contact information through the Platform and reviewing the Product Terms applicable to Additional Product Offerings you use regularly for updates. Your continued use of any of these Additional Product Offerings after any modifications or updates to the applicable Product Terms shall constitute your consent to such changes.
+Table of contents
+Source by Webflow
+Research preview
+Product
+Platform
+Design
+Edit content
+Interactions
+GSAP
+Page building
+Shared Libraries
+Collaboration
+CMS
+Hosting
+Localize
+Security
+Ecommerce
+Analyze
+Optimize
+SEO
+MCP
+Campaigns new
+AEO
+Webflow Cloud
+DevLinkLabs
+Figma to WebflowLabs
+Accessibility
+AI
+Solutions
+Enterprise
+Global alliances
+Agencies
+Freelancers
+Resources
+University
+Blog
+Customer stories
+Webinars & ebooks
+Apps
+Libraries
+Templates
+Developers
+Made in Webflow
+Glossary
+Livestreams
+The Webflow Way
+Business Value Calculator
+Company
+About
+CareersWe're hiring
+Press
+Webflow Ventures
+Webflow Shop
+Terms of Service
+Privacy policy
+Cookie policy
+Accessibility statement
+Compare
+Contentful
+Framer
+Sitecore
+Wix
+WordPress
+Community
+Discover the community
+Partner with Webflow
+Certified Partners
+Become a template designer
+Become an affiliate
+Become a Global Leader
+Find a meetup near you
+Get help
+Support
+Pricing
+Status
+Community Homebase
+Wishlist
+© 2026 Webflow, Inc. All rights reserved
+Made in Webflow
+YouTube
+X
+Facebook
+Linkedin
+Instagram
+TikTok
+Webflow's homepage
+Made in Webflow

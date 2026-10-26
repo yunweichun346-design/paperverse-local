@@ -1,0 +1,36 @@
+/* 本次三份静态设计稿的统一令牌；断点：640 / 768 / 1024 / 1280 / 1440。 */
+:root {
+ --rt-s1:4px; --rt-s2:8px; --rt-s3:12px; --rt-s4:16px; --rt-s6:24px; --rt-s8:32px; --rt-s12:48px; --rt-s16:64px;
+ --rt-caption:12px; --rt-small:13px; --rt-ui:14px; --rt-body:17px; --rt-h3:19px; --rt-h2:24px; --rt-title:34px;
+ --rt-weight:400; --rt-medium:500; --rt-strong:600; --rt-leading:1.6; --rt-prose-leading:1.8; --rt-title-leading:1.35; --rt-tracking:-.02em;
+ --rt-control:32px; --rt-touch:44px; --rt-toolbar:52px; --rt-radius:6px; --rt-modal-radius:12px;
+ --rt-border:1px; --rt-focus:2px; --rt-opacity-disabled:.5; --rt-hover:120ms; --rt-panel:200ms; --rt-ease:cubic-bezier(.2,.8,.2,1);
+ --rt-width:1600px; --rt-toc:240px; --rt-notes:320px; --rt-prose-width:760px; --rt-prose-ch:72ch; --rt-notes-height:240px;
+ --rt-rail:80px; --rt-book:96px; --rt-book-large:180px; --rt-table-label:160px; --rt-table-column:280px;
+ --rt-shelf-column:180px; --rt-shelf-cover:180px; --rt-shelf-ratio:3/4; --rt-shelf-title:16px; --rt-shelf-leading:1.45; --rt-shelf-title-height:2.9em;
+ --rt-shelf-shadow:2px 5px 8px color-mix(in srgb,var(--apple-ink) 22%,transparent); --rt-shelf-lift:-4px; --rt-shelf-press:.98;
+ --rt-wheel-near:.98; --rt-wheel-mid:.96; --rt-wheel-far:.94;
+ --rt-glass-background:color-mix(in srgb,var(--surface) 88%,transparent);
+ --rt-glass-filter:blur(16px) saturate(112%);
+ --rt-glass-edge:color-mix(in srgb,var(--text) 10%,transparent);
+ --rt-press:1px; --rt-stroke:1.5; --rt-opacity-hover:.9; --rt-sheet-height:85dvh;
+ --rt-print-ink:#000; --rt-print-paper:#fff; --rt-print-border:#777;
+ --rt-shadow:0 8px 24px rgb(0 0 0 / .12);
+ --rt-image-preview:clamp(360px,58svh,720px); --rt-image-stage:clamp(160px,60dvh,760px); --rt-image-dialog-width:1200px; --rt-image-mobile:360px; --rt-image-stage-mobile:48dvh; --rt-image-stage-min:120px;
+ --rt-scene-height:280px; --rt-scene-mobile:200px; --rt-scene-title:40px;
+ --rt-font-sans:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+ --rt-font-serif:Georgia,"Times New Roman","Noto Serif CJK SC","Songti SC","SimSun",serif;
+ --rt-mark:light-dark(#e5e7bc,#4d5035);
+ --pdf-yellow:#f2e6ad;--pdf-green:#c5dfc6;--pdf-blue:#c5dce9;--pdf-rose:#eacbd4;--pdf-selection:#8bb5dc66;--pdf-highlight-opacity:.65;
+ --rt-reader-size:17px; --rt-reader-line:1.8; --rt-reader-width:72ch; --rt-reader-font:var(--rt-font-sans);
+}
+:root:has(.wb-app[data-reading-theme="eye"]) {
+ --background:#f3eedf;--surface:#f3eedf;--surface-raised:#f7f2e6;--control:#f7f2e6;--muted:#e8e1cf;--control-hover:#e8e1cf;
+ --text:#2b302b;--secondary:#586157;--border:#d8d2c2;--border-strong:#92998a;--accent:#285c50;
+}
+@media(prefers-reduced-transparency:reduce),(prefers-contrast:more) {
+ :root { --rt-glass-background:var(--surface); --rt-glass-filter:none; --rt-glass-edge:var(--border-strong); }
+}
+@media(forced-colors:active) {
+ :root { --rt-glass-background:Canvas; --rt-glass-filter:none; --rt-glass-edge:CanvasText; }
+}

@@ -1,0 +1,46 @@
+.pdf-main {min-width:0;max-width:100%;}
+.pdf-print-frame {position:fixed;width:1px;height:1px;right:0;bottom:0;border:0;opacity:0;pointer-events:none;}
+.pdf-main h1 {margin-bottom:var(--rt-s6);}
+.pdf-import {display:flex;flex-wrap:wrap;gap:var(--rt-s2);align-items:center;}
+.pdf-import input {max-width:100%;}
+.pdf-toolbar,.pdf-search {display:flex;gap:var(--rt-s2);flex-wrap:wrap;align-items:center;margin-block:var(--rt-s4);}
+.pdf-toolbar input {width:var(--rt-rail);}
+.pdf-toolbar label {display:flex;gap:var(--rt-s2);align-items:center;}
+.pdf-file-caption {color:var(--secondary);font-size:var(--rt-small);margin-block:var(--rt-s3)!important;}
+.pdf-scroll {overflow-x:auto;max-width:100%;}
+.pdf-pages {min-width:100%;}
+.pdf-page {position:relative;width:100%;background:var(--rt-print-paper);color:var(--rt-print-ink);margin-block:var(--rt-s4);overflow:hidden;scroll-margin-top:var(--rt-toolbar);}
+.pdf-page canvas {position:absolute;inset:0;width:100%;height:100%;}
+.pdf-page-status {position:absolute;inset:var(--rt-s4);}
+/* PDF.js 5.6 TextLayer positioning contract, Mozilla Apache-2.0. */
+.pdf-page .textLayer {position:absolute;inset:0;overflow:clip;line-height:1;text-align:initial;text-size-adjust:none;forced-color-adjust:none;transform-origin:0 0;--min-font-size:1;--total-scale-factor:var(--scale-factor);--text-scale-factor:calc(var(--total-scale-factor)*var(--min-font-size));--min-font-size-inv:calc(1/var(--min-font-size));}
+.pdf-page .textLayer :is(span,br) {color:transparent;position:absolute;white-space:pre;cursor:text;transform-origin:0 0;}
+.pdf-page .textLayer>:not(.markedContent),.pdf-page .textLayer .markedContent span:not(.markedContent) {--font-height:0;font-size:calc(var(--text-scale-factor)*var(--font-height));--scale-x:1;--rotate:0deg;transform:rotate(var(--rotate)) scaleX(var(--scale-x)) scale(var(--min-font-size-inv));}
+.pdf-page .textLayer .markedContent {display:contents;}
+.pdf-page .textLayer ::selection {background:var(--pdf-selection);}
+.pdf-page .pdf-match {background:var(--pdf-yellow);mix-blend-mode:multiply;}
+.pdf-highlights {position:absolute;inset:0;pointer-events:none;}
+.wb-app .pdf-highlight,.wb-app .pdf-reference-link {position:absolute;min-width:0;min-height:0;padding:0;border:0;border-radius:0;transform:none;}
+.wb-app .pdf-highlight {pointer-events:auto;mix-blend-mode:multiply;opacity:var(--pdf-highlight-opacity);transition:none;}
+.wb-app .pdf-highlight:hover {opacity:1;}
+.wb-app .pdf-reference-link {background:transparent;}
+.wb-app .pdf-reference-link:hover,.wb-app .pdf-reference-link:focus-visible {background:var(--pdf-selection);}
+.pdf-yellow {background:var(--pdf-yellow)!important;color:var(--rt-print-ink)!important;}
+.pdf-green {background:var(--pdf-green)!important;color:var(--rt-print-ink)!important;}
+.pdf-blue {background:var(--pdf-blue)!important;color:var(--rt-print-ink)!important;}
+.pdf-rose {background:var(--pdf-rose)!important;color:var(--rt-print-ink)!important;}
+.pdf-notes {margin-bottom:var(--rt-s8);}
+.pdf-notes h2 {font-size:var(--rt-ui);}
+.pdf-notes form label {display:grid;gap:var(--rt-s2);}
+.pdf-notes form textarea {width:100%;margin-top:var(--rt-s2);}
+.pdf-notes blockquote {margin:var(--rt-s4) 0;padding-left:var(--rt-s3);border-left:var(--rt-focus) solid var(--accent);max-height:var(--rt-notes-height);overflow:auto;}
+.pdf-colors {display:flex;gap:var(--rt-s2);margin-block:var(--rt-s3);}
+.pdf-colors [aria-pressed=true] {outline:var(--rt-focus) solid var(--accent);}
+.pdf-note {padding-block:var(--rt-s4);border-bottom:var(--rt-border) solid var(--border);overflow-wrap:anywhere;}
+.pdf-note>button:first-child {text-align:left;width:100%;}
+.pdf-note p {white-space:pre-wrap;margin-block:var(--rt-s3)!important;}
+.pdf-note.is-selected {border-left:var(--rt-focus) solid var(--accent);padding-left:var(--rt-s3);}
+.pdf-reference-preview {position:fixed;z-index:20;bottom:var(--rt-s6);right:calc(var(--rt-rail) + var(--rt-s6));width:var(--rt-notes);max-width:calc(100vw - var(--rt-s8));padding:var(--rt-s4);background:var(--surface);border:var(--rt-border) solid var(--border);border-radius:var(--rt-radius);box-shadow:var(--rt-shadow);}
+.pdf-reference-preview p {max-height:var(--rt-notes-height);overflow:auto;margin-block:var(--rt-s3);}
+@media(max-width:767px){.pdf-reference-preview{right:var(--rt-s4);bottom:var(--rt-rail);}.pdf-search input{width:100%;}.pdf-main h1{font-size:var(--rt-h2);}}
+@media print{.pdf-toolbar,.pdf-search,.pdf-import,.pdf-reference-preview,.pdf-file-caption{display:none!important;}.pdf-page{break-inside:avoid;}.pdf-main{width:100%;}}

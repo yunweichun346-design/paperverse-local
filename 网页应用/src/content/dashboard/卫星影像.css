@@ -1,0 +1,38 @@
+.geo-media { margin:0; min-width:0; }
+.wb-app .geo-image-open { display:block; position:relative; width:100%; height:var(--rt-image-preview); padding:0; overflow:hidden; border:0; border-radius:var(--rt-modal-radius); background:var(--muted); cursor:zoom-in; }
+.geo-image-open>img { width:100%; height:100%; object-fit:cover; object-position:50% 36%; display:block; transform:scale(1.5); }
+.geo-image-open-icon { position:absolute; right:var(--rt-s4); bottom:var(--rt-s4); width:var(--rt-touch); height:var(--rt-touch); display:grid; place-items:center; background:var(--surface-raised); color:var(--text); border-radius:50%; box-shadow:none; transition:transform var(--rt-hover); }
+.geo-image-open:hover .geo-image-open-icon { background:var(--control-hover); }
+.geo-media figcaption { display:grid; gap:var(--rt-s1); margin:var(--rt-s4) 0 var(--rt-s2); color:var(--secondary); font-size:var(--rt-caption); line-height:var(--rt-leading); }
+.geo-media figcaption strong { color:var(--text); font-weight:var(--rt-medium); font-size:var(--rt-ui); }
+.geo-source { font-size:var(--rt-caption); line-height:var(--rt-prose-leading); color:var(--secondary); }
+.geo-source summary { cursor:pointer; width:fit-content; padding:var(--rt-s2) 0; color:var(--accent); }
+.geo-source p { margin:var(--rt-s2) 0; overflow-wrap:anywhere; }
+.geo-source a { color:var(--accent); display:inline-flex; gap:var(--rt-radius); align-items:center; }
+.geo-preview-error { min-height:var(--rt-image-mobile); border:var(--rt-border) solid var(--border); border-radius:var(--rt-s4); padding:var(--rt-s6); display:grid; place-content:center; gap:var(--rt-caption); }
+/* 使用共享 Dialog 提供焦点圈定和滚动锁；只限定此查看层尺寸。 */
+.geo-image-dialog { width:min(var(--rt-image-dialog-width),calc(100vw - var(--rt-s8))); max-width:var(--rt-image-dialog-width); max-height:calc(100dvh - var(--rt-s8)); border-radius:var(--rt-s4); }
+.geo-image-dialog .dialog-content { padding:var(--rt-s4) var(--rt-s6) var(--rt-s6); overflow:auto; }
+.geo-image-dialog button { color:var(--text); background:var(--control); border:var(--rt-border) solid var(--border-strong); border-radius:var(--rt-radius); min-height:var(--rt-touch); padding:var(--rt-s2) var(--rt-ui); font:inherit; cursor:pointer; }
+.geo-image-dialog button:hover { background:var(--control-hover); }
+.geo-image-dialog button:active { transform:translateY(var(--rt-press)); }
+.geo-image-dialog button:disabled { opacity:var(--rt-opacity-disabled); cursor:default; }
+.geo-image-dialog .geo-image-close { border-radius:50%; display:grid; place-items:center; width:var(--rt-touch); padding:0; }
+.geo-image-dialog :is(button,summary,a,.geo-image-stage):focus-visible { outline:var(--rt-focus) solid var(--accent); outline-offset:var(--rt-s1); }
+.geo-viewer-controls { display:flex; gap:var(--rt-s2); flex-wrap:wrap; align-items:center; margin-bottom:var(--rt-ui); }
+.geo-viewer-controls span { margin-left:auto; font-size:var(--rt-caption); color:var(--secondary); }
+.geo-image-stage { height:var(--rt-image-stage); position:relative; overflow:hidden; background:var(--muted); display:grid; place-items:center; border-radius:var(--rt-radius); touch-action:none; cursor:grab; }
+.geo-image-stage:active { cursor:grabbing; }
+.geo-image-stage img { max-width:none; max-height:none; object-fit:contain; grid-area:1/1; user-select:none; transform-origin:center; }
+.geo-image-loading,.geo-image-error { grid-area:1/1; text-align:center; padding:var(--rt-s6); z-index:1; color:var(--text); }
+.geo-image-error a { display:block; color:var(--accent); margin-top:var(--rt-caption); }
+.geo-viewer-hint { color:var(--secondary); font-size:var(--rt-caption); line-height:var(--rt-leading); margin:var(--rt-caption) 0 0; }
+@media(max-width:767px) {
+  .wb-app .geo-image-open { height:var(--rt-image-mobile); }
+  .geo-image-dialog { width:calc(100vw - var(--rt-s4)); max-height:calc(100dvh - var(--rt-s4)); }
+  .geo-image-dialog .dialog-content { padding:var(--rt-caption); }
+  .geo-viewer-controls span { width:100%; margin:0; }
+  .geo-image-stage { height:var(--rt-image-stage-mobile); min-height:var(--rt-image-stage-min); }
+}
+@media(prefers-reduced-motion:reduce) { .geo-image-open-icon { transition:none; } .geo-image-open:hover .geo-image-open-icon { transform:none; } }
+@media(prefers-contrast:more) { .geo-source,.geo-viewer-hint,.geo-media figcaption { color:var(--text); } .geo-image-stage { border:var(--rt-focus) solid var(--text); } }

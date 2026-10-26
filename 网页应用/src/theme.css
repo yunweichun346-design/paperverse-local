@@ -1,0 +1,66 @@
+@import "./content/dashboard/设计令牌.css";
+:root {
+  color-scheme: light dark;
+  --adaptive-theme: 1;
+  --font-sans-default: -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-sans: var(--font-sans-default);
+  --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", system-ui, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --apple-action: #285c50;
+  --apple-focus: #287456;
+  --apple-ink: #252a2e;
+  --apple-dark: #252a2e;
+  --apple-on-dark: #fdfcf9;
+  --apple-muted-on-dark: #c4cec8;
+  --apple-link-on-dark: #83c9a9;
+  --apple-product-shadow: 3px 5px 30px rgb(0 0 0 / 22%);
+  --background: light-dark(#faf9f6, #252a2e);
+  --surface: light-dark(#faf9f6, #252a2e);
+  --surface-raised: light-dark(#fdfcf9, #2b3035);
+  --muted: light-dark(#efeeea, #383e43);
+  --control: light-dark(#fafcfb, #2a352e);
+  --control-hover: light-dark(#efeeea, #383e43);
+  --interaction-hover: var(--muted);
+  --interaction-active: var(--control-hover);
+  --text: light-dark(#252a2e, #faf9f6);
+  --secondary: light-dark(#56645c, #c4cec8);
+  --border: light-dark(#d8e0da, #48574d);
+  --border-strong: light-dark(#95a59b, #7b8d81);
+  --accent: light-dark(var(--apple-action), var(--apple-link-on-dark));
+  --text-secondary: var(--secondary);
+  --data-app-chrome-background: transparent;
+  --data-app-chrome-text: var(--text);
+  --positive: var(--color-text-success, light-dark(#00a240, #40c977));
+  --negative: var(--color-text-error, light-dark(#e02e2a, #ff6764));
+  --chart-1: light-dark(#0285ff, #66b5ff);
+  --chart-2: light-dark(#924ff7, #ad7bf9);
+  --chart-3: light-dark(#04b84c, #40c977);
+  --chart-4: light-dark(#fb6a22, #ff8549);
+  --chart-5: light-dark(#ff66ad, #ff8cc1);
+  --chart-6: light-dark(#ffc300, #ffd240);
+  --chart-7: light-dark(#fa423e, #ff6764);
+  --chart-8: light-dark(#8f8f8f, #afafaf);
+  --chart-neutral-fill: color-mix(in srgb, var(--text) 3%, var(--surface));
+  --ranked-list-fill: color-mix(in srgb, var(--chart-1) 16%, var(--surface));
+  --ranked-list-fill-hover: color-mix(in srgb, var(--chart-1) 24%, var(--surface));
+  --movement-positive: color-mix(in srgb, var(--positive) 75%, var(--text));
+  --movement-negative: color-mix(in srgb, var(--negative) 75%, var(--text));
+  --movement-total: var(--secondary);
+  --card-radius: 16px;
+  --data-card-radius: 16px;
+  --data-card-background: var(--surface-raised);
+  --control-radius: 8px;
+  --mark-radius: 8;
+  --card-shadow: none;
+  --shadow: none;
+}
+
+:root:not([data-app-theme]),
+:root:is([data-app-theme="original"], [data-app-theme="codex-classic"]) {
+  --dashboard-background: var(--background);
+}
+
+
+/* 打印固定纸面配色，不沿用屏幕的深色或护眼背景。 */
+@media print {
+ :root { color-scheme:light!important; --background:var(--rt-print-paper)!important; --dashboard-background:var(--rt-print-paper)!important; --surface:var(--rt-print-paper)!important; --text:var(--rt-print-ink)!important; --secondary:var(--rt-print-ink)!important; --accent:var(--rt-print-ink)!important; }
+}

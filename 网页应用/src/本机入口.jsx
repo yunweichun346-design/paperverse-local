@@ -1,0 +1,10 @@
+import React from 'react';
+import {createRoot} from 'react-dom/client';
+import './theme.css';
+import './styles.css';
+import './content/dashboard/dashboard.css';
+import './print.css';
+import './本机外壳.css';
+import {LocalShell} from './本机组件.jsx';
+import {DashboardContent} from './content/dashboard/DashboardContent.jsx';
+createRoot(document.getElementById('root')).render(<LocalShell><DashboardContent/></LocalShell>);

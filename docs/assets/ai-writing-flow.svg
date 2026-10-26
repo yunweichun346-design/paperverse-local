@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 276" width="680" font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <title>AI 辅助写作的取料流程</title>
+  <desc>用户提出写作请求后，AI 依次检索文献库、读取笔记与正文、生成草稿并格式化引用、写回笔记或导出草稿</desc>
+  <defs>
+    <marker id="w1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect x="120" y="36" width="440" height="44" rx="8" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.5"/>
+  <text x="340" y="58" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0C447C">你对 AI 说：帮我写 X 主题的文献综述 / 论文段落</text>
+
+  <path d="M340 80 L340 106" fill="none" stroke="#378ADD" stroke-width="1.5" marker-end="url(#w1)"/>
+
+  <rect x="40" y="110" width="140" height="56" rx="8" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.5"/>
+  <text x="110" y="132" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0C447C">1 · 检索文献库</text>
+  <text x="110" y="150" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#185FA5">search_papers(主题)</text>
+
+  <rect x="190" y="110" width="140" height="56" rx="8" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.5"/>
+  <text x="260" y="132" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0C447C">2 · 读笔记 + 正文</text>
+  <text x="260" y="150" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#185FA5">list_notes · get_paper_text</text>
+
+  <rect x="340" y="110" width="140" height="56" rx="8" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.5"/>
+  <text x="410" y="132" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#0C447C">3 · 生成草稿与引用</text>
+  <text x="410" y="150" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#185FA5">get_citation（新增）</text>
+
+  <rect x="490" y="110" width="140" height="56" rx="8" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="560" y="132" text-anchor="middle" dominant-baseline="central" font-size="13" font-weight="500" fill="#085041">4 · 写回 / 导出</text>
+  <text x="560" y="150" text-anchor="middle" dominant-baseline="central" font-size="11" fill="#0F6E56">add_note · writing/*.md</text>
+
+  <path d="M180 138 L184 138" fill="none" stroke="#378ADD" stroke-width="1.5" marker-end="url(#w1)"/>
+  <path d="M330 138 L334 138" fill="none" stroke="#378ADD" stroke-width="1.5" marker-end="url(#w1)"/>
+  <path d="M480 138 L484 138" fill="none" stroke="#378ADD" stroke-width="1.5" marker-end="url(#w1)"/>
+
+  <rect x="40" y="200" width="600" height="56" rx="12" fill="#FAEEDA" stroke="#EF9F27" stroke-width="0.5"/>
+  <text x="340" y="222" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#854F0B">关键前提：导入论文时就把引用字段（作者 / 年份 / 期刊 / DOI）解析进 meta.json，</text>
+  <text x="340" y="240" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#633806">写作时 get_citation 才能直接产出 GB/T 7714 或 BibTeX 格式的参考文献</text>
+</svg>
